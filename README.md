@@ -1,4 +1,4 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [HTML5 Boilerplate](http://html5boilerplate.com) #(Modified version, see project description)#
 
 HTML5 Boilerplate is a professional front-end template for building fast,
 robust, and adaptable web apps or sites.
@@ -56,3 +56,7 @@ want to write about your project.
 
 Anyone and everyone is welcome to [contribute](/h5bp/html5-boilerplate/blob/master/doc/contribute.md). Hundreds of
 developers have helped make the HTML5 Boilerplate what it is today.
+
+## Planned modifications #(new)#
+
+Inclusion of some improvements from http://www.1stwebdesigner.com/design/snippets-html5-boilerplate/ . 
